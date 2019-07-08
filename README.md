@@ -1,13 +1,12 @@
 # Camagru
 Camagru is instagram like website, which allows users to take picture with sticker, upload picture with sticker, like and comment on other people's posts.
 
-Live demo link : http://13.57.176.0:3002/
-
-Camagru is 42 Silicon Valley School project. Therefore I had to follow instructions given by the school.
+Since this project is 42 Silicon Valley School project, I had to follow instructions given by the school.
 Please check the subject from here : https://github.com/Naksi96/camagru/blob/master/md/camagru.en.pdf
 
-Camagru is my second web project.
-Front-end side was done by HTML, CSS, bootstrap, Javascript(without jquery), and back-end side was only done by PHP.
+Camagru is my second web project. Front-end side was done by HTML, CSS, bootstrap, Javascript(without JQuery), back-end side was only done by PHP, and MySQL was used as a database.
+
+Live demo link : http://13.57.176.0:3002/
 
 *Webcam access cannot be done in Google Chrome due to the security issue.
 Please try it on Firefox.*
