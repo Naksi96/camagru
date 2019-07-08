@@ -24,4 +24,15 @@ Please try it on Firefox.*
 **Find Password:**
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/find_pw.png)
 
+## Account Detail:
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/acc_info.gif)
 
+## Like & Comment:
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/like_comment.gif)
+
+## Upload:
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/upload.png)
+
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/webcam.png)
+
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/browse.png)
