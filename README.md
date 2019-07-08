@@ -5,6 +5,7 @@ Live demo link : http://13.57.176.0:3002/
 
 Please check the subject from here : https://github.com/Naksi96/camagru/blob/master/md/camagru.en.pdf
 
+Camagru is my second web project.
 Front-end side was done by HTML, CSS, bootstrap, Javascript(without jquery), and back-end side was only done by PHP.
 
 *Webcam access cannot be done in Google Chrome due to the security issue.
@@ -27,12 +28,17 @@ Please try it on Firefox.*
 ## Account Detail:
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/acc_info.gif)
 
-## Like & Comment:
-![Alt text](https://github.com/Naksi96/camagru/blob/master/md/like_comment.gif)
-
 ## Upload:
-![Alt text](https://github.com/Naksi96/camagru/blob/master/md/upload.png)
-
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/webcam.png)
+You can take a picture with a sticker, even multiple of them!
+Select what you like most, and simply press "Upload"
 
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/browse.png)
+
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/upload.png)
+You can also browse a picture(PNG format only) and put a sticker on it!
+Upload multiple of them and choose which one you like the most!
+Then again, press "Upload" to upload it on the server.
+
+## Like & Comment:
+![Alt text](https://github.com/Naksi96/camagru/blob/master/md/like_comment.gif)
