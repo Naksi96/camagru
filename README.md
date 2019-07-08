@@ -16,12 +16,12 @@ Please try it on Firefox.*
 ## Login Page:
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/login.png)
 
-Create Page:
-------------
+**Create Page:
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/create.png)
 
 *email verification has been disabled for easier views.*
 
-Find Password:
---------------
+**Find Password:
 ![Alt text](https://github.com/Naksi96/camagru/blob/master/md/find_pw.png)
+
+
