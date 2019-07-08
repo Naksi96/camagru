@@ -1,8 +1,9 @@
-# camagru
-Camagru is instagram like website, which allows users to take picture with sticker, upload picture with sticker, like others' pictures and comment on other people's posts.
+# Camagru
+Camagru is instagram like website, which allows users to take picture with sticker, upload picture with sticker, like and comment on other people's posts.
 
 Live demo link : http://13.57.176.0:3002/
 
+Camagru is 42 Silicon Valley School project. Therefore I had to follow instructions given by the school.
 Please check the subject from here : https://github.com/Naksi96/camagru/blob/master/md/camagru.en.pdf
 
 Camagru is my second web project.
