@@ -4,7 +4,8 @@ Camagru is Instagram-like web application, which allows users to take picture wi
 Since this project is 42 Silicon Valley School project, I had to follow instructions given by the school.
 Please check the subject from here : https://github.com/Naksi96/camagru/blob/master/md/camagru.en.pdf
 
-Camagru is my second web project. Front-end side was done by HTML, CSS, bootstrap, Javascript(without JQuery), back-end side was only done by PHP, and MySQL was used as a database.
+Camagru is my second web project. Front-end was done by HTML, CSS, bootstrap, Javascript(without JQuery).
+Back-end was only done by PHP, and MySQL was used for the database.
 
 Live demo link : http://13.57.176.0:3002/
 
