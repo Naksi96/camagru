@@ -7,8 +7,6 @@ Please check the subject from here : https://github.com/Naksi96/camagru/blob/mas
 Camagru is my second web project. Front-end was done by HTML, CSS, bootstrap, Javascript(without JQuery).
 Back-end was only done by PHP, and MySQL was used for the database.
 
-Live demo link : http://13.57.176.0:3002/
-
 *Webcam access cannot be done in Google Chrome due to the security issue.
 Please try it on Firefox.*
 
